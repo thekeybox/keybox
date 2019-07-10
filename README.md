@@ -91,10 +91,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
   
-
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-  
 
 $$
 
@@ -492,5 +489,5 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDA5MTYxLDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
 -->
