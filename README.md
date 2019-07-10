@@ -51,27 +51,18 @@ The Keybox API and SDK offer enterprises a seamless experience in managing their
  
 Enterprises and organisations who wish to store and protect valuable digitised data, in a fully compliant way, whilst retaining low-latency access to their data when required. For example: Financial Services, Professional Services, Healthcare, e-Commerce, Military, Governments.
 
-  
-
 **KEYBOX INTEGRATION**
-
-  
 
 We provide an API and SDK to allow enterprises a seamless experience in managing their data at rest or in transit.
 
-Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node
-
-environment.
+Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node environment.
 
   
 
 **KEYBOX PRICING**
 
   
-
-Pricing for the Keybox solution is volume based related to API calls and total storage capacity. Keybox can be
-
-configured to a range of specific requirements, which may include third party node hosting services.
+Pricing for the Keybox solution is volume based related to API calls and total storage capacity. Keybox can be configured to a range of specific requirements, which may include third party node hosting services.
 
   
 
@@ -300,7 +291,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIwNDQ4MDgsNDA4NjIwNTQsLTEzMz
-IyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3
-NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbLTY5OTkwNzYwMCw0MDg2MjA1NCwtMTMzMj
+I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
+MTg5LDEyMDcxOTgxOTRdfQ==
 -->
