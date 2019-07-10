@@ -53,21 +53,12 @@ We provide an API and SDK to allow enterprises a seamless experience in managing
 
 Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node environment. 
 
-Check here the demo
-
-
 
 # USE CASES
 
-  
+Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
 
-Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for
-
-key management and recovery; for compliance and for data theft obstruction.
-
-  
-
-And this will produce a flow chart:
+  And this will produce a flow chart:
 
   
 
@@ -272,7 +263,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU2ODI1MTksNDA4NjIwNTQsLTEzMz
-IyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3
-NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbMTA5OTE3NDAxNSw0MDg2MjA1NCwtMTMzMj
+I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
+MTg5LDEyMDcxOTgxOTRdfQ==
 -->
