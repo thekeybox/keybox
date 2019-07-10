@@ -61,7 +61,9 @@ Below are examples of where and how Keybox can be applied: for data at rest; for
   
 
 ![enter image description here](https://lh3.googleusercontent.com/Sgu3R1ZoBkBnfer1jCZI7qwD5Z_zSIhP9n5sLgF_IICnoqLFVXyL8nmwtK7RO28UdxE39t0MVgM)
+
  
+
 # 1 - DATA AT REST : Protecting Archive Data with Keybox
 
   
@@ -183,7 +185,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwOD
-YyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1
-MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbNjY1MTI2NjA4LDExMjg2OTczNjAsLTc5OT
+IwMjg1OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4
+LC0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ
+==
 -->
