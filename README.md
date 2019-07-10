@@ -6,7 +6,9 @@ Keybox addresses all of these issues.
 
 ## With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
-  
+  ![enter image description here](https://lh3.googleusercontent.com/BsXES4FZtOZ-aRN9KeAOpb3DyBfSrmot-F-qRNcK2k7p0YWzpoYFSef7ivlUtpc9xnwSnnzLvdM)  
+
+
 
 # SECURING DATA WITH KEYBOX
 
@@ -321,7 +323,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDAwNjMzNywtMTMzMjI0MDc1LC0xNz
-EyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcx
-OTgxOTRdfQ==
+eyJoaXN0b3J5IjpbNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMj
+Y1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4
+MTk0XX0=
 -->
