@@ -1,23 +1,18 @@
 # Keybox White Paper
 
+> An introductory paper to Ethereum, introduced before launch, which is maintained.
+
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR).
 
 Keybox addresses all of these issues.
 
-## With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
-
-  ![enter image description here](https://lh3.googleusercontent.com/BsXES4FZtOZ-aRN9KeAOpb3DyBfSrmot-F-qRNcK2k7p0YWzpoYFSef7ivlUtpc9xnwSnnzLvdM)  
-
+>With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
 
 # SECURING DATA WITH KEYBOX
 
 
-Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that
-
-penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments
-
-using smart contract technology.
+Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments using smart contract technology.
 
 
 ```
@@ -323,7 +318,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMj
-Y1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4
-MTk0XX0=
+eyJoaXN0b3J5IjpbLTE4NzEyMTcwODAsNDA4NjIwNTQsLTEzMz
+IyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3
+NzE4OSwxMjA3MTk4MTk0XX0=
 -->
