@@ -59,48 +59,7 @@ Clients can use their existing infrastructure to host the solution or can use th
 Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
   
 
-```mermaid
-
-graph LR
-
-A[KEYBOX USE CASES]  --> B((DATA AT REST))
-
-B --> E{Archive Data}
-
-E --> F(Enterprise customer data)
-
-E --> G(Cloud-based shared data storage solutions)
-
-E --> H(Digital Asset Custody)
-
-A --> C((DATA IN TRANSIT))
-
-C --> U{Sharing Data}
-
-U --> P(Sharing Data Securely)
-
-U --> LL(Secure Investor Identity Verification)
-
-U --> Pq(Transaction Data Rooms)
-
-  
-
-A[KEYBOX USE CASES]  --> BB((DEVICE/USER KEY RECOVERY ))
-
-BB --> BBB(Lost Phone)
-
-BB --> BBBB(Private Key Recovery)
-
-A[KEYBOX USE CASES]  --> ui((COMPLIANCE WITH GDPR ))
-ui --> BBBa(Demonstrating Auditable GDPR Compliance to Regulators)
-
-A[KEYBOX USE CASES]  --> ui1((DATA THEFT OBSTRUCTION))
-ui1 --> BBBa1(Stolen Laptop)
-
-A[KEYBOX USE CASES]  --> ui11((DATA THEFT OBSTRUCTION))
-ui11 --> BBBa11(Crypto Currency Exchanges)
-```
-
+![enter image description here](https://lh3.googleusercontent.com/Sgu3R1ZoBkBnfer1jCZI7qwD5Z_zSIhP9n5sLgF_IICnoqLFVXyL8nmwtK7RO28UdxE39t0MVgM)
  
 # 1 - DATA AT REST : Protecting Archive Data with Keybox
 
@@ -223,7 +182,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTIwMjg1OCw0MDg2MjA1NCwtMTMzMj
-I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
-MTg5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbMTI4MzMxODY4MiwtNzk5MjAyODU4LDQwOD
+YyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1
+MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
 -->
