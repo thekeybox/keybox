@@ -160,7 +160,7 @@ C --> D
   
 
   
-
+# Keybox White Paper
 ```
 
 © Keybox Ltd. 2019 All rights reserved. Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
@@ -489,5 +489,6 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbNjY5OTQ1MTgxLC0xMzExMzc3MTg5LDEyMD
+cxOTgxOTRdfQ==
 -->
