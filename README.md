@@ -57,9 +57,6 @@ Clients can use their existing infrastructure to host the solution or can use th
 # USE CASES
 
 Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
-
-  And this will produce a flow chart:
-
   
 
 ```mermaid
@@ -100,7 +97,7 @@ BB --> BBBB(Private Key Recovery)
 
   
 
-## 1 - DATA AT REST : Protecting Archive Data with Keybox
+# 1 - DATA AT REST : Protecting Archive Data with Keybox
 
   
 
@@ -108,9 +105,7 @@ BB --> BBBB(Private Key Recovery)
 
   
 
-Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows sensitive data to be stored or
-
-backed up in decentralised, secure fragments. The data can be accessed instantly for business logic and may
+Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows sensitive data to be stored orbacked up in decentralised, secure fragments. The data can be accessed instantly for business logic and may
 
 not even need to be recovered in its entirety to return specific data requests.
 
@@ -140,7 +135,7 @@ recombining the key.
 
   
 
-## 2 - DATA IN TRANSIT /SHARING : Sharing Data Safely with Keybox
+# 2 - DATA IN TRANSIT /SHARING : Sharing Data Safely with Keybox
 
   
 
@@ -154,7 +149,6 @@ to collaborate with Fintechs. Corporates frequently need to export sensitive dat
 
 third party access in secure way, with specific, permissioned key access and a full audit trail.
 
-  
 
 ## Example: Secure Investor Identity Verification
 
@@ -178,7 +172,7 @@ of this data poses a risk. Keybox can allow data sharing for a limited time peri
 
   
 
-## 3 - DEVICE/USER KEY RECOVERY : Supporting Lost Access
+# 3 - DEVICE/USER KEY RECOVERY : Supporting Lost Access
 
   
 
@@ -200,7 +194,7 @@ record or the whole device or account.
 
   
 
-## 4 - COMPLIANCE WITH GDPR : Proof of Data Territoriality + No Personally Identifiable Data
+# 4 - COMPLIANCE WITH GDPR : Proof of Data Territoriality + No Personally Identifiable Data
 
   
 
@@ -212,7 +206,6 @@ Whilst regulations have evolved and may continue to change, Keybox allows client
 
 best practices with regards data security as a data processor through data fragmentation and territoriality.
 
-  
 
 ## 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
 
@@ -230,7 +223,7 @@ stolen. Keybox has functionality to allow new keys to be reissued as soon as an 
 
   
 
-## 6 - KEY MANAGEMENT : Access Control
+# 6 - KEY MANAGEMENT : Access Control
 
   
 
@@ -246,9 +239,9 @@ under certain conditions to generate the signature needed for them to transact f
 
   
 
-## TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT: FRANCESCO ANDREOLI FRANCESCO@KEYBOX.CO
+## TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 
-  
+ 
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 
@@ -263,7 +256,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTE3NDAxNSw0MDg2MjA1NCwtMTMzMj
-I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
-MTg5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbNTMyMTkyODEyLDQwODYyMDU0LC0xMzMyMj
+QwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcx
+ODksMTIwNzE5ODE5NF19
 -->
