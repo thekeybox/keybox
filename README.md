@@ -4,8 +4,6 @@
 # Keybox White Paper
 ```
 
-© Keybox Ltd. 2019 All rights reserved. Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
-
 ```
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and
 
@@ -327,7 +325,9 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 
-
+```
+© Keybox Ltd. 2019 All rights reserved. Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
+```
 
 
 # Publication1
@@ -489,6 +489,7 @@ C --> D
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMT
-AxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbLTE0ODQ3MTExNSwtMTMzMjI0MDc1LC0xNz
+EyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcx
+OTgxOTRdfQ==
 -->
