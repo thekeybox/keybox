@@ -29,6 +29,8 @@ v. A redundancy threshold ensures that the failure of a node does not affect the
 
 ```
 
+![](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA)
+
 ```
 
 Tried and tested security algorithms
@@ -318,7 +320,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyMTcwODAsNDA4NjIwNTQsLTEzMz
-IyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3
-NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbMTU3NTIwMTc1MSw0MDg2MjA1NCwtMTMzMj
+I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
+MTg5LDEyMDcxOTgxOTRdfQ==
 -->
