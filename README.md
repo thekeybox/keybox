@@ -8,7 +8,7 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
   
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+ Before starting to publish, you must link an account in the **Publish** sub-menu.
 
   
 
@@ -166,7 +166,6 @@ C --> D
 © Keybox Ltd. 2019 All rights reserved. Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 
 ```
-
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and
 
 data transfers between organisations increase the risk of breaches. Key management and recovery remain an
@@ -185,9 +184,8 @@ Keybox addresses all of these issues.
 
   
 
-### SECURING DATA WITH KEYBOX
+# SECURING DATA WITH KEYBOX
 
-  
 
 Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that
 
@@ -195,7 +193,6 @@ penetrating any node cannot yield any decipherable information. Authorised users
 
 using smart contract technology.
 
-  
 
 ```
 
@@ -489,6 +486,6 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5OTQ1MTgxLC0xMzExMzc3MTg5LDEyMD
-cxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMT
+IwNzE5ODE5NF19
 -->
