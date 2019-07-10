@@ -142,7 +142,7 @@ One of the most common mobile/online support issues is loss of access to a devic
 Whilst regulations have evolved and may continue to change, Keybox allows clients to demonstrate adoption of best practices with regards data security as a data processor through data fragmentation and territoriality.
 
 
-## 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
+# 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
 
   
 
@@ -166,11 +166,11 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 
   
 
-## TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
+### TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 
  
 
-## GENERAL ENQUIRIES: INFO@KEYBOX.CO
+### GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 
 ```
 © Keybox Ltd. 2019 All rights reserved. 
@@ -183,8 +183,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA2NDc2MTIsMTEyODY5NzM2MCwtNz
-k5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2
-NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF
-19
+eyJoaXN0b3J5IjpbLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OT
+kyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2
+OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX
+0=
 -->
