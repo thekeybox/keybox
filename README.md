@@ -42,7 +42,8 @@ Keybox leverages a proven, permissioned Blockchain, which has several unique adv
 
 ## Strong focus on usability
 
-The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure
+The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure.
+
 
 
 
@@ -182,7 +183,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzMxODY4MiwtNzk5MjAyODU4LDQwOD
+eyJoaXN0b3J5IjpbMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwOD
 YyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1
 MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
 -->
