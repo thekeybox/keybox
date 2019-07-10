@@ -94,19 +94,14 @@ BB --> BBBB(Private Key Recovery)
 A[KEYBOX USE CASES]  --> ui((COMPLIANCE WITH GDPR ))
 ui --> BBBa(Demonstrating Auditable GDPR Compliance to Regulators)
 
-A[KEYBOX USE CASES]  --> ui1((COMPLIANCE WITH GDPR ))
-ui --> BBBa1(Demonstgulators)
+A[KEYBOX USE CASES]  --> ui1((DATA THEFT OBSTRUCTION))
+ui1 --> BBBa1(Stolen Laptop)
 
-
-
-
-
+A[KEYBOX USE CASES]  --> ui11((DATA THEFT OBSTRUCTION))
+ui11 --> BBBa11(Crypto Currency Exchanges)
 ```
 
-  
-
-  
-
+ 
 # 1 - DATA AT REST : Protecting Archive Data with Keybox
 
   
@@ -228,7 +223,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNDgxNjEyLDQwODYyMDU0LC0xMzMyMj
-QwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcx
-ODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbLTc5OTIwMjg1OCw0MDg2MjA1NCwtMTMzMj
+I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
+MTg5LDEyMDcxOTgxOTRdfQ==
 -->
