@@ -33,7 +33,6 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
 
   
-
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
   
@@ -486,6 +485,6 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTczNjE2NzAsLTEwMTAwMzM1MzMsLT
-EzMTEzNzcxODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbMTU1NzczMTAyMCwtMTAxMDAzMzUzMywtMT
+MxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
 -->
