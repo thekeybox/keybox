@@ -1,6 +1,12 @@
 
 # Files
 
+ - [ ] asd
+ - [ ] asd
+ - [ ] as
+ - [ ] d
+ - [ ] a
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -32,22 +38,15 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
-  
-
 ## Export a file
 
   
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
   
-
-  
-
 # Synchronization
 
-  
-
+ 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
   
@@ -602,5 +601,5 @@ under certain conditions to generate the signature needed for them to transact f
 
 ## GENERAL ENQUIRIES: INFO@KEYBOX.CO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbMTA4Nzg3NDU1OCwxMjA3MTk4MTk0XX0=
 -->
