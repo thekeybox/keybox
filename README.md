@@ -105,9 +105,7 @@ BB --> BBBB(Private Key Recovery)
 
   
 
-Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows sensitive data to be stored orbacked up in decentralised, secure fragments. The data can be accessed instantly for business logic and may
-
-not even need to be recovered in its entirety to return specific data requests.
+Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows sensitive data to be stored or backed up in decentralised, secure fragments. The data can be accessed instantly for business logic and may not even need to be recovered in its entirety to return specific data requests.
 
   
 
@@ -115,9 +113,7 @@ not even need to be recovered in its entirety to return specific data requests.
 
   
 
-Keybox can sit as a layer between a user and their database, providing an additional security layer to deliver
-
-greater control of access.
+Keybox can sit as a layer between a user and their database, providing an additional security layer to deliver greater control of access.
 
   
 
@@ -125,13 +121,9 @@ greater control of access.
 
   
 
-Keybox is the safest way to store keys for digital assets that also allows low-latency recovery. Where hot wallets
+Keybox is the safest way to store keys for digital assets that also allows low-latency recovery. Where hot wallets are not secure and cold storage is slow/inefficient, Keybox provides instant access with highest grade security.
 
-are not secure and cold storage is slow/inefficient, Keybox provides instant access with highest grade security.
-
-Private keys can be recombined at the point of trade, or for more security, trades executed without fully
-
-recombining the key.
+Private keys can be recombined at the point of trade, or for more security, trades executed without fully recombining the key.
 
   
 
@@ -143,22 +135,14 @@ recombining the key.
 
   
 
-Large corporates frequently need auditors or regulators to access and review sensitive information. Banks need
-
-to collaborate with Fintechs. Corporates frequently need to export sensitive data. Keybox can allow authorised
-
-third party access in secure way, with specific, permissioned key access and a full audit trail.
+Large corporates frequently need auditors or regulators to access and review sensitive information. Banks need to collaborate with Fintechs. Corporates frequently need to export sensitive data. Keybox can allow authorised third party access in secure way, with specific, permissioned key access and a full audit trail.
 
 
 ## Example: Secure Investor Identity Verification
 
   
 
-To comply with KYC/AML, investors have to provide highly sensitive documents to complete transactions
-
-(personal details, proof of wealth, residency, address). This data transfer poses a risk. Keybox can allow entities
-
-to share data access exclusively and for a limited time period to specific persons, with low risk.
+To comply with KYC/AML, investors have to provide highly sensitive documents to complete transactions (personal details, proof of wealth, residency, address). This data transfer poses a risk. Keybox can allow entities to share data access exclusively and for a limited time period to specific persons, with low risk.
 
   
 
@@ -166,9 +150,7 @@ to share data access exclusively and for a limited time period to specific perso
 
   
 
-To complete corporate transactions, a great deal of sensitive data is stored in data rooms. Access to and transfer
-
-of this data poses a risk. Keybox can allow data sharing for a limited time period to specific entities, with low risk.
+To complete corporate transactions, a great deal of sensitive data is stored in data rooms. Access to and transfer of this data poses a risk. Keybox can allow data sharing for a limited time period to specific entities, with low risk.
 
   
 
@@ -180,17 +162,7 @@ of this data poses a risk. Keybox can allow data sharing for a limited time peri
 
   
 
-One of the most common mobile/online support issues is loss of access to a device or an application, caused by
-
-either losing the physical device or the login/password master access. Keybox allows for the automation of the
-
-verification process of an individual's identity, enabling self-certification in applications using a Keybox-powered
-
-network. A user can regain access to their secured data records by controlling the self-certify process for each
-
-record they have created, allowing them to set the challenges themselves for the access recovery for each specific
-
-record or the whole device or account.
+One of the most common mobile/online support issues is loss of access to a device or an application, caused by either losing the physical device or the login/password master access. Keybox allows for the automation of the verification process of an individual's identity, enabling self-certification in applications using a Keybox-powered network. A user can regain access to their secured data records by controlling the self-certify process for each record they have created, allowing them to set the challenges themselves for the access recovery for each specific record or the whole device or account.
 
   
 
@@ -202,9 +174,7 @@ record or the whole device or account.
 
   
 
-Whilst regulations have evolved and may continue to change, Keybox allows clients to demonstrate adoption of
-
-best practices with regards data security as a data processor through data fragmentation and territoriality.
+Whilst regulations have evolved and may continue to change, Keybox allows clients to demonstrate adoption of best practices with regards data security as a data processor through data fragmentation and territoriality.
 
 
 ## 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
@@ -215,11 +185,7 @@ best practices with regards data security as a data processor through data fragm
 
   
 
-All data security processes have the challenge of failure at the point of consumption end, e.g. if an open laptop is
-
-stolen. Keybox has functionality to allow new keys to be reissued as soon as an attack is detected – an effective
-
-“freeze” on the account, with authenticated recovery available. Thus, after a first breach, further damage is limited.
+All data security processes have the challenge of failure at the point of consumption end, e.g. if an open laptop is stolen. Keybox has functionality to allow new keys to be reissued as soon as an attack is detected – an effective “freeze” on the account, with authenticated recovery available. Thus, after a first breach, further damage is limited.
 
   
 
@@ -231,11 +197,7 @@ stolen. Keybox has functionality to allow new keys to be reissued as soon as an 
 
   
 
-Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your
-
-crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only
-
-under certain conditions to generate the signature needed for them to transact for you on a public network.
+Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only under certain conditions to generate the signature needed for them to transact for you on a public network.
 
   
 
@@ -256,7 +218,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMTkyODEyLDQwODYyMDU0LC0xMzMyMj
-QwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcx
-ODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbMTQ1NjAxMjc5Niw0MDg2MjA1NCwtMTMzMj
+I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
+MTg5LDEyMDcxOTgxOTRdfQ==
 -->
