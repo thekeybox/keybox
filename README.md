@@ -91,7 +91,14 @@ BB --> BBB(Lost Phone)
 
 BB --> BBBB(Private Key Recovery)
 
-A[KEYBOX USE CASES]  --> BBBB((DE ))
+A[KEYBOX USE CASES]  --> ui((COMPLIANCE WITH GDPR ))
+ui --> BBBa(Demonstrating Auditable GDPR Compliance to Regulators)
+
+A[KEYBOX USE CASES]  --> ui1((COMPLIANCE WITH GDPR ))
+ui --> BBBa1(Demonstgulators)
+
+
+
 
 
 ```
@@ -221,7 +228,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTc2MjY1NCw0MDg2MjA1NCwtMTMzMj
-I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
-MTg5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbNjAzNDgxNjEyLDQwODYyMDU0LC0xMzMyMj
+QwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcx
+ODksMTIwNzE5ODE5NF19
 -->
