@@ -91,6 +91,9 @@ BB --> BBB(Lost Phone)
 
 BB --> BBBB(Private Key Recovery)
 
+A[KEYBOX USE CASES]  --> BBBB((DE ))
+
+
 ```
 
   
@@ -218,7 +221,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjAxMjc5Niw0MDg2MjA1NCwtMTMzMj
+eyJoaXN0b3J5IjpbLTU2MTc2MjY1NCw0MDg2MjA1NCwtMTMzMj
 I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
 MTg5LDEyMDcxOTgxOTRdfQ==
 -->
