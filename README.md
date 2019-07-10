@@ -31,49 +31,25 @@ v. A redundancy threshold ensures that the failure of a node does not affect the
 
 
 
-```
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-```
+![enter image description here](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA)
 
-Tried and tested security algorithms
+## Tried and tested security algorithms
 
-Keybox uses MIT’s Shamir Secret Sharing to fragment data together with smart
+Keybox uses MIT’s Shamir Secret Sharing to fragment data together with smart contracts to control and monitor data access
 
-contracts to control and monitor data access
+## Permissioned blockchain
 
-```
+Keybox leverages a proven, permissioned Blockchain, which has several unique advantages over other distributed ledger protocols, including territoriality and scalability
 
-```
+## Strong focus on usability
 
-Permissioned blockchain
+The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure
 
-Keybox leverages a proven, permissioned Blockchain, which has several unique
 
-advantages over other distributed ledger protocols, including territoriality and scalability
+# KEYBOX CLIENTS
 
-```
-
-```
-
-Strong focus on usability
-
-The Keybox API and SDK offer enterprises a seamless experience in managing their
-
-data at rest or in transit, within their existing data infrastructure
-
-```
-
-### KEYBOX CLIENTS
-
-  
-
-Enterprises and organisations who wish to store and protect valuable digitised data, in a fully compliant way,
-
-whilst retaining low-latency access to their data when required. For example: Financial Services, Professional
-
-Services, Healthcare, e-Commerce, Military, Governments.
+ 
+Enterprises and organisations who wish to store and protect valuable digitised data, in a fully compliant way, whilst retaining low-latency access to their data when required. For example: Financial Services, Professional Services, Healthcare, e-Commerce, Military, Governments.
 
   
 
@@ -324,7 +300,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDQzMzk3MCw0MDg2MjA1NCwtMTMzMj
-I0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3
-MTg5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDIwNDQ4MDgsNDA4NjIwNTQsLTEzMz
+IyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3
+NzE4OSwxMjA3MTk4MTk0XX0=
 -->
