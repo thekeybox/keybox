@@ -60,9 +60,7 @@ Clients can use their existing infrastructure to host the solution or can use th
 Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
   
 
-![enter image description here](https://lh3.googleusercontent.com/Sgu3R1ZoBkBnfer1jCZI7qwD5Z_zSIhP9n5sLgF_IICnoqLFVXyL8nmwtK7RO28UdxE39t0MVgM)
-
- 
+![enter image description here](https://lh3.googleusercontent.com/FxtOLWXnVseOEClFMR_0ORvVwSep7BlwTA83Zpu16z0ZHRAUX9uocLWhs-CcKrybPFja281cP5A) 
 
 # 1 - DATA AT REST : Protecting Archive Data with Keybox
 
@@ -185,8 +183,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MTI2NjA4LDExMjg2OTczNjAsLTc5OT
-IwMjg1OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4
-LC0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ
-==
+eyJoaXN0b3J5IjpbLTExMDA2NDc2MTIsMTEyODY5NzM2MCwtNz
+k5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2
+NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF
+19
 -->
