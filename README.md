@@ -9,7 +9,7 @@ Keybox addresses all of these issues.
 >With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
 
-# SECURING DATA WITH KEYBOX
+# SECURING DATA 
 
 
 Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments using smart contract technology.
@@ -46,14 +46,41 @@ The Keybox API and SDK offer enterprises a seamless experience in managing their
 
 
 
-
-
 ## KEYBOX INTEGRATION**
 
 We provide an API and SDK to allow enterprises a seamless experience in managing their data at rest or in transit.
 
 Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node environment. 
 
+### How to use the Keybox API
+
+The API UI can be found at https://poc.keybox.co. There is a swagger UI available under "API Explorer".  
+All of the API endpoints can be tested in the explorer by expanding the relevant sections and clicking the "Try it out". Endpoints
+
+Write Inspect Get Delete
+
+Write
+
+Returns: A reference
+
+The write endpoint is used to add data to the Keybox. Data can be sent as text or as an Octet-stream. The name and extension of the file is not stored. When uploading it is recommended that both are stored with the returned reference. This can be used to correctly rename the file upon downloading.
+
+Inspect
+
+Receives: Reference  
+Returns: Fragbits  
+The inspect endpoints returns a list of the fragments created when the uploaded data was sharded.
+
+Get
+
+Receives: Reference  
+Returns: Uploaded data  
+The get function takes the stored reference and returns the un-fragmented data.
+
+Delete
+
+Receives: Reference  
+The delete function takes the reference and deletes the fragmented data.
 
 # USE CASES
 
@@ -183,8 +210,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMT
-I4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3
-NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OS
-wxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLT
+MyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIw
+NTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMy
+wtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
 -->
