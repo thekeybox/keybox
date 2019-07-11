@@ -1,4 +1,4 @@
-# Keybox White Paper
+# KEYBOX  WHITE PAPER
 
 > An introductory paper to Keybox
 
@@ -183,7 +183,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY5ODQzNTMsLTMyMjIzMDg0NiwxMT
+eyJoaXN0b3J5IjpbLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMT
 I4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3
 NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OS
 wxMjA3MTk4MTk0XX0=
