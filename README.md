@@ -1,6 +1,6 @@
 # Keybox White Paper
 
-> An introductory paper to Ethereum, introduced before launch, which is maintained.
+> An introductory paper to Keybox
 
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR).
 
@@ -183,8 +183,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OT
-kyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2
-OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX
-0=
+eyJoaXN0b3J5IjpbLTE0MTY5ODQzNTMsLTMyMjIzMDg0NiwxMT
+I4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3
+NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OS
+wxMjA3MTk4MTk0XX0=
 -->
