@@ -21,6 +21,8 @@ Keybox leverages a proven, permissioned Blockchain, which has several unique adv
 
 The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure. Following is the technology stack of keybox:
 
+![enter image description here](https://lh3.googleusercontent.com/9mMsAhMBHlPivWfFdP9Nn1EHdk6xIIpdm6hTGcdt7d9IBC-Gob_60O_RS5Fkf0rC9F3BszGO9jI=s1000)
+
 ![enter image description here](https://lh3.googleusercontent.com/9mMsAhMBHlPivWfFdP9Nn1EHdk6xIIpdm6hTGcdt7d9IBC-Gob_60O_RS5Fkf0rC9F3BszGO9jI)
 
 ![enter image description here](https://lh3.googleusercontent.com/Ll2gSNmfrGOpJNn824PjDf_nHmGyiATeV33CMtRkkNty6GkDoCHbmgZOKbkTGpVzKpGma7D8XTI "technology stack")
@@ -316,11 +318,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU5NDg0MzMsMTYxMjE5NjE3MywtMz
-kwODY4MzU3LDIyMDE5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2
-LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1ODMyODgwNywxNz
-M0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIy
-MzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC
-0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEz
-MTEzNzcxODldfQ==
+eyJoaXN0b3J5IjpbMjYyNjUxMDA0LDE2MTIxOTYxNzMsLTM5MD
+g2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2Niwt
+MzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMTczND
+g1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIyMjMw
+ODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1OCw0MDg2MjA1NCwtMT
+MzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzEx
+Mzc3MTg5XX0=
 -->
