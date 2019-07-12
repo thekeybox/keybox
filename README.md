@@ -23,19 +23,6 @@ The Keybox API and SDK offer enterprises a seamless experience in managing their
 
 ## How Keybox work
 
-```
-
-i. Keybox encrypts and fragments data into multiple unique parts
-
-ii. The fragments are distributed across a decentralized network of private or public nodes
-
-iii. Only a subset of the fragments is needed to recreate the whole
-
-iv. The data can only be accessed through the recombination process via smart contracts
-
-v. A redundancy threshold ensures that the failure of a node does not affect the integrity of the data
-
-```
  
 Keybox leverages some unique features of Activeledger, for example, Activity Streaming. Activeledger is able to create consensus even being in different networks if managed correctly. This is how our virtual networks for Keybox will operate. When creating a new activity stream to hold a secure data record, we can use deterministic stream names to ensure on each network that the new activity stream has the same id. Inside this activity stream, we will have the metadata such as ownership details. Once we have the activity stream on the 4** networks, we can either create a tunnel or data passthrough*** from the connected client to append data to the activity stream. This appended data will be 1 of the 4 parts of the secret sharing algorithm. Now we have the secret parts securely separated from each other and Keybox becomes the controller (but not the owner, or access to the data).
 
@@ -252,7 +239,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzI0OTUyMywxNzM0ODUyNDM3LC0xNj
+eyJoaXN0b3J5IjpbMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNj
 c4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5
 NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLT
 E3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIw
