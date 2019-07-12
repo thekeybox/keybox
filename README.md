@@ -305,6 +305,10 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 
 			See Workflow Diagram as an example. To add to that, it will mostly be API driven but delivered by an SDK for easier integration, as it will be powered by a series of data handshakes wrapped up in signed Activeledger transactions.
   
+  ![
+](https://lh3.googleusercontent.com/AliU3mxpq23BUGG2V8sAsA9MSrxIL9lGKCVi0D3qr5cqts2A14t_xGBWSyYKPvBtzmSsH6n6dLQ=s1000)
+
+---------------
 
 TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO 
  
@@ -315,11 +319,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOT
-A4NjgzNTcsMjIwMTkyNjc5LDU0MDU1NzU2MCw1Njc0NDU2NjYs
-LTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3Mz
-Q4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIz
-MDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLT
-EzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMx
-MTM3NzE4OV19
+eyJoaXN0b3J5IjpbLTQ4MzEyMjIxOSwxODgxMTM2OTQ0LDE2MT
+IxOTYxNzMsLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYw
+LDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNT
+gzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5
+MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1OC
+w0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMDEw
+MDMzNTMzXX0=
 -->
