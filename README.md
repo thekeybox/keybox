@@ -302,8 +302,6 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 
 TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO 
  
-GENERAL ENQUIRIES TO INFO@KEYBOX.CO
-
 ```
 © Keybox Ltd. 2019 All rights reserved. 
 ```
@@ -311,10 +309,10 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTM3NzQwNCw1Njc0NDU2NjYsLTMxMD
-g1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4NTI0
-MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0Ni
-wxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIy
-NDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3Nz
-E4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbNTQwNTU3NTYwLDU2NzQ0NTY2NiwtMzEwOD
+U5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMTczNDg1MjQz
+NywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIyMjMwODQ2LD
+ExMjg2OTczNjAsLTc5OTIwMjg1OCw0MDg2MjA1NCwtMTMzMjI0
+MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3MT
+g5LDEyMDcxOTgxOTRdfQ==
 -->
