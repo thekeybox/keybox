@@ -85,7 +85,7 @@ There will be 2 possibilities for the fragmentation process. On-device or Remote
 
 ** This could become rather complex we could have 1 large network of 100 nodes, or networks of smaller networks and give the user the choice how the data is disbursed. The reason for this would be to fragment the data further across so many locations which an attacker wouldn't know where to attack. It also allows for 1 administrator to run multiple nodes but never has more than 1 (or possibly more depending on X of Y) part of the fragments.
 
-
+![How fragmentation works](https://lh3.googleusercontent.com/PkEcZ6gCkMxN_chF1dhDB4vlmLskdmLztDLm5-0Z-HcXAH1wBVXehwUXNgyPL-yaEXVwLMBbYtM "How fragmentation works")
 
 ## KEYBOX INTEGRATION**
 
@@ -251,7 +251,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUyNzY4MjUsLTE2NzgwMjI3MDksLT
+eyJoaXN0b3J5IjpbLTEzNTc1MDY2NTEsLTE2NzgwMjI3MDksLT
 E3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTky
 MDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OC
 wtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
