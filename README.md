@@ -19,7 +19,7 @@ Keybox leverages a proven, permissioned Blockchain, which has several unique adv
 
 ### Strong focus on usability
 
-The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure. Foll
+The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure. Following is the technology stack of keybox:
 
 ![enter image description here](https://lh3.googleusercontent.com/npgg5xx2FNi-0vYjCylBuyRgS3Oa1NS2AjsEOvzHEAG2piSiCY5RJIGftQNppW_3Y7IFxYvCZds)
 
@@ -313,7 +313,7 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc5MDgwNDQsMjIwMTkyNjc5LDU0MD
+eyJoaXN0b3J5IjpbLTEwNzc0NTU0NTQsMjIwMTkyNjc5LDU0MD
 U1NzU2MCw1Njc0NDU2NjYsLTMxMDg1OTA3NCwtMTg5NDIzMDUw
 MiwxMDU4MzI4ODA3LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLT
 E3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTky
