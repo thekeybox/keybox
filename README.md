@@ -6,14 +6,15 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
 
 ### Contents
 
- - Intro
- - How Keybox work
- - Fragmentation process 
- - Keybox Integration
- - Use Cases
- - Security Overview
- - Frequesntly Asked Questions
- - Summary
+ 1. Intro
+ 2. How Keybox work
+ 3. Fragmentation process 
+ 4. Keybox Integration
+ 5. Use Cases
+ 6. Security Overview
+ 7. Frequesntly Asked Questions
+ 8. Summary
+ 9. Contact
 
 ## INTRO - SECURING DATA 
 
@@ -382,11 +383,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMzUzNjc5LDExNjU2MTc0MjQsLTE4Mj
-c1ODE5MzEsMTY1OTM5OTUxMiwzMTM5MzMyODQsMTM0MjQxNzcx
-MiwtMTAwMzc2MjE0LDE4ODExMzY5NDQsMTYxMjE5NjE3MywtMz
-kwODY4MzU3LDIyMDE5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2
-LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1ODMyODgwNywxNz
-M0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIy
-MzA4NDZdfQ==
+eyJoaXN0b3J5IjpbMTQ4OTk5NDYxMiwxMTY1NjE3NDI0LC0xOD
+I3NTgxOTMxLDE2NTkzOTk1MTIsMzEzOTMzMjg0LDEzNDI0MTc3
+MTIsLTEwMDM3NjIxNCwxODgxMTM2OTQ0LDE2MTIxOTYxNzMsLT
+M5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2
+NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMT
+czNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIy
+MjMwODQ2XX0=
 -->
