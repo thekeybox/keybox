@@ -216,6 +216,10 @@ Multi-factor authentication: Keybox uses multi-factor authentication to protect 
 
 Activeledger’s Activity Streaming Protocol utilises Proof of Reputation, meaning the reputation of the node and events that occur on it.
 
+## AI fraud detection
+
+Keybox views security as a multi-faceted problem. Protection against external threats is not just about perimeter security; we also protect our customers from social engineering. While this can take many forms, the key issue for any service protecting customer data is to detect fraudulent activity versus genuine use. Keybox will also deploy a data fraud detection system. Based on banking grade technology, every transaction will be reviewed by an AI system and scored for risk. Transactions with substantial risk that have the hallmark of fraud will be flagged for further review and confirmation by the consumer before being released. This adds yet another level of protection for our customers.
+
 # Frequently Asked Questions
 
 1.  How do we describe Keybox?
@@ -326,9 +330,10 @@ Activeledger’s Activity Streaming Protocol utilises Proof of Reputation, meani
   ![
 ](https://lh3.googleusercontent.com/AliU3mxpq23BUGG2V8sAsA9MSrxIL9lGKCVi0D3qr5cqts2A14t_xGBWSyYKPvBtzmSsH6n6dLQ=s1000)
 
+
 ---------------
 
-TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO 
+ANY QUESTIONS, PLEASE CONTACT FRANCESCO@KEYBOX.CO 
  
 ```
 © Keybox Ltd. 2019 All rights reserved. 
@@ -337,11 +342,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDQwMTcyLDE4ODExMzY5NDQsMTYxMj
-E5NjE3MywtMzkwODY4MzU3LDIyMDE5MjY3OSw1NDA1NTc1NjAs
-NTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1OD
-MyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1Njkx
-MDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LD
-QwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAw
-MzM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTExNDc1OTA4MTQsMTg4MTEzNjk0NCwxNj
+EyMTk2MTczLC0zOTA4NjgzNTcsMjIwMTkyNjc5LDU0MDU1NzU2
+MCw1Njc0NDU2NjYsLTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMD
+U4MzI4ODA3LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2
+OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NT
+gsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAx
+MDAzMzUzM119
 -->
