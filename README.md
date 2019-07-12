@@ -341,17 +341,17 @@ Keybox views security as a multi-faceted problem. Protection against external th
 --------
 # Summary 
 
-Keybox is a novel solution to a new and growing problem in the digital world, that of storing high-value data both safely and conveniently.** This is a significant challenge for both individuals and institutions. Data losses suffered by enterprises failing to securely protect centralised data are on the rise with a result in loss of confidence by the consumer who feels their trust is being abused. Keybox aims to directly address this issue while also being part of a solution to privacy issues.
+ - *Keybox is a novel solution to a new and growing problem in the digital world, that of storing high-value data both safely and conveniently.** This is a significant challenge for both individuals and institutions. Data losses suffered by enterprises failing to securely protect centralised data are on the rise with a result in loss of confidence by the consumer who feels their trust is being abused. Keybox aims to directly address this issue while also being part of a solution to privacy issues.
 
-Keybox primary focus is security.** We use best-in-class techniques and leading-edge methodologies to ensure the safe-keeping of customer’s data. Research of cold-storage and centralised approaches has contributed to the development of our unique distributed approach.
+- *Keybox primary focus is security.** We use best-in-class techniques and leading-edge methodologies to ensure the safe-keeping of customer’s data. Research of cold-storage and centralised approaches has contributed to the development of our unique distributed approach.
 
-Keybox is highly focused on usability**, to deliver customers a seamless experience in managing their data through the Keybox Vault API and App.
+- *Keybox is highly focused on usability**, to deliver customers a seamless experience in managing their data through the Keybox Vault API and App.
 
-<![if !supportLists]>· <![endif]>**Keybox’s team is highly experienced and well-recognised, successful operators in FinTech, distributed ledger and artificial intelligence**. We have several decades of business achievement in each field, as well as several large start-ups/scale-ups and successful exits. The team has a core distributed ledger and smart contract development ability.
+- *Keybox’s team is highly experienced and well-recognised, successful operators in FinTech, distributed ledger and artificial intelligence**. We have several decades of business achievement in each field, as well as several large start-ups/scale-ups and successful exits. The team has a core distributed ledger and smart contract development ability.
 
-<![if !supportLists]>· <![endif]>**Keybox is built on Activeledger which has several unique advantages over other existing distributed ledger protocols**, including territoriality, scalability, interoperability, and traceability.
+- *Keybox is built on Activeledger which has several unique advantages over other existing distributed ledger protocols**, including territoriality, scalability, interoperability, and traceability.
 
-<![if !supportLists]>· <![endif]>**We found demand for a robust and convenient cold-storage type solution for data and private keys** within analysis carried out for us by a leading consultancy.
+- *We found demand for a robust and convenient cold-storage type solution for data and private keys** within analysis carried out for us by a leading consultancy.
 
 ---------------
 
@@ -369,7 +369,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5MTc0NDMsLTE4Mjc1ODE5MzEsMT
+eyJoaXN0b3J5IjpbLTEyNTQ1ODkyMjgsLTE4Mjc1ODE5MzEsMT
 Y1OTM5OTUxMiwzMTM5MzMyODQsMTM0MjQxNzcxMiwtMTAwMzc2
 MjE0LDE4ODExMzY5NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LD
 IyMDE5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkw
