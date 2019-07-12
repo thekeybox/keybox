@@ -215,7 +215,6 @@ All data security processes have the challenge of failure at the point of consum
 ### Example: Crypto Currency Exchanges
 
   
-
 Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only under certain conditions to generate the signature needed for them to transact for you on a public network.
 
 # Frequently Asked Questions
@@ -236,95 +235,91 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 
 		Secret Sharing vs. Fragmenting: The data in secret sharing are unique to each other. When you’re fragmenting something, there is some data overlap somewhere.
 
-Hashing vs. Fragmenting/Sharing: Hashed data is one way only. For example here is a credit card number hashed:
-
-e4816c29f3aa34390b27e5901b1a0d7b61323e431de3e4cb2187848f1cb8b1ac
+		Hashing vs. Fragmenting/Sharing: Hashed data is one way only. For example here is a credit card number hashed: e4816c29f3aa34390b27e5901b1a0d7b61323e431de3e4cb2187848f1cb8b1ac
 
 5.  How secure is this secret sharing compared to a hashing process, can you refer to some research?
 
-A really simple answer is secret sharing is infinitely more insecure because it's 2 way. However, as we need to retrieve the original data for our clients, this is a strength instead of insecurity. A more relevant comparison would be secret sharing vs. ppk/passphrase encryption.
+		A really simple answer is secret sharing is infinitely more insecure because it's 2 way. However, as we need to retrieve the original data for our clients, this is a strength instead of insecurity. A more relevant comparison would be secret sharing vs. ppk/passphrase encryption.
 
 6.  Describe the steps to store data within Keybox.
 
-See Workflow Diagram as an example.
+		See Workflow Diagram as an example.
 
 7.  Describe the steps to reform the data with Keybox.
 
-See Workflow Diagram as an example.
+		See Workflow Diagram as an example.
 
 8.  Why is the technology unique?
 
-The biggest problem with secret sharing is “where and who do you trust with each secret part.” This is a key reason for it not to be adopted. However, this problem can be resolved with the current research into DLT. While each part of this technology is not unique, the combining of them creates a new unique technology (just like bitcoin.)
+		The biggest problem with secret sharing is “where and who do you trust with each secret part.” This is a key reason for it not to be adopted. However, this problem can be resolved with the current research into DLT. While each part of this technology is not unique, the combining of them creates a new unique technology (just like bitcoin.)
 
 9.  What are the “secrets”?
 
-This was the term given when the algorithm was designed because they wanted to “share a secret.”
+		This was the term given when the algorithm was designed because they wanted to “share a secret.”
 
 10.  Does Keybox depend on other vendors?
 
-Keybox Core is currently on dependent on Activeledger. This may increase during its development phase for best practice in terms of API/UI/2 Factor Authentication; however, it is easily possible to be dependent on Activeledger and the computer language runtime.
+			Keybox Core is currently on dependent on Activeledger. This may increase during its development phase for best practice in terms of API/UI/2 Factor Authentication; however, it is easily possible to be dependent on Activeledger and the computer language runtime.
 
 11.  Why aren’t public blockchains not suited for this (yet)?
 
-2 part answer. First, if all the data is somehow “on-chain” then you haven’t secured anything, just made it slightly inconvenient to find and collect. Second is if you were to only put a representational reference on a public ledger you still lose the consensus on where and how the original data is secured.
+			2 part answer. First, if all the data is somehow “on-chain” then you haven’t secured anything, just made it slightly inconvenient to find and collect. Second is if you were to only put a representational reference on a public ledger you still lose the consensus on where and how the original data is secured.
 
 12.  Is the data replicated anywhere or simply fragmented across multiple nodes?
 
-It depends on the model used. On the POC it is fragmented across multiple nodes and kept in consensus by the Smart contracts and policies applied.
+			It depends on the model used. On the POC it is fragmented across multiple nodes and kept in consensus by the Smart contracts and policies applied.
 
 13.  What are the nodes? Where are they?
 
-Currently, the demo is running on the Activeledger global testnet. They are located in USA, UK, EU, Hong Kong. This network of computers would not be used in a production environment in which case a production grade
+			Currently, the demo is running on the Activeledger global testnet. They are located in USA, UK, EU, Hong Kong. This network of computers would not be used in a production environment in which case a production grade
 
 14.  Can we store an unlimited amount of data?
 
-Activeledger doesn’t impose any data restrictions. Only restrictions are the typical bandwidth and storage limitations in the infrastructure.
+			Activeledger doesn’t impose any data restrictions. Only restrictions are the typical bandwidth and storage limitations in the infrastructure.
 
 15.  How is the backup system working? What happens if some nodes fail?
 
-Activeledger has a restore mechanism in a post error iteration. However, depending on the model used this may not help. This is why Keybox will operate a health checker smart contract where if it detects the threshold is getting too close to losing the data, it will trigger an automated recombine process and issue a brand-new set of shares. This will be fully automated and audited by those contracts.
+			Activeledger has a restore mechanism in a post error iteration. However, depending on the model used this may not help. This is why Keybox will operate a health checker smart contract where if it detects the threshold is getting too close to losing the data, it will trigger an automated recombine process and issue a brand-new set of shares. This will be fully automated and audited by those contracts.
 
 16.  How much of the data is needed to retrieve 100 %? Can we lose data?
 
-This is configurable. The demo uses a 60% setting of the network which is then rounded, so its threshold is 2 parts needed out of 4. This setting combined with the health check above is how we reduce the risk of losing data.
+			This is configurable. The demo uses a 60% setting of the network which is then rounded, so its threshold is 2 parts needed out of 4. This setting combined with the health check above is how we reduce the risk of losing data.
 
 17.  Is there dependency on miners?
 
-No. However, I believe there is a business model which could bring in the equivalent of miners for extended data security
+			No. However, I believe there is a business model which could bring in the equivalent of miners for extended data security
 
 18.  Can you explain the consensus model?
 
-Configurable Practical Byzantine Fault Tolerance. Activeledger network has to agree upon inputs, outputs, valid transactional data and signatures to reach the commit phase to store state. It is also possible to have additional consensus delegated to within a smart contract.
+			Configurable Practical Byzantine Fault Tolerance. Activeledger network has to agree upon inputs, outputs, valid transactional data and signatures to reach the commit phase to store state. It is also possible to have additional consensus delegated to within a smart contract.
 
 19.  How can I see the smart contract on the back-end?
 
-Either via file access on the node host or by knowing their Activity stream id and using the API. Smart contracts are self-hosted on Activeledger. You can see an encoded versioned of a Keybox contract here:
-
-http://testnet-uk.activeledger.io:5261/api/stream/a9dc9b6085e05ea1765a72c163c2f7d00bf0566214ccc9416966ad7ef7258038
+			Either via file access on the node host or by knowing their Activity stream id and using the API. Smart contracts are self-hosted on Activeledger. You can see an encoded versioned of a Keybox contract here: http://testnet-uk.activeledger.io:5261/api/stream/a9dc9b6085e05ea1765a72c163c2f7d00bf0566214ccc9416966ad7ef7258038
 
 20.  How does access to the data, permissions, 2FA, private keys etc. work?
 
-In the demo this is done directly with the Activeledger API (Activecore). In production, Keybox will have its own API which has its own additional authentication for security practices. Some 2FA requests will come directly from the ledger to prevent man-in-the-middle type attacks. (The ledger can send the SMS)
+			In the demo this is done directly with the Activeledger API (Activecore). In production, Keybox will have its own API which has its own additional authentication for security practices. Some 2FA requests will come directly from the ledger to prevent man-in-the-middle type attacks. (The ledger can send the SMS)
 
 21.  Can we store an unlimited amount of data without compromising speed?
 
-Yes, if we can exclude bandwidth related restrictions.
+			Yes, if we can exclude bandwidth related restrictions.
 
 22.  Can we store an unlimited amount of data without compromising safety?
 
-Yes, as we are storing the equivalent of “junk” data and protection the intelligence which converts it from being junk.
+			Yes, as we are storing the equivalent of “junk” data and protection the intelligence which converts it from being junk.
 
 23.  Can we retrieve large amounts of data? What are the limitations in terms of latency?
 
-Activeledger lookups can be measured in 10ms, so latency is not impacted; bandwidth availability, however, will reduce the download times, but this is true of any remote system.
+			Activeledger lookups can be measured in 10ms, so latency is not impacted; bandwidth availability, however, will reduce the download times, but this is true of any remote system.
 
 24.  Is data on the Blockchain?
 
-Yes, with all-out data models everything is stored on the blockchain either across “Virtual Networks” or using Volatile memory. All data will be processed and available within smart contracts.
+			Yes, with all-out data models everything is stored on the blockchain either across “Virtual Networks” or using Volatile memory. All data will be processed and available within smart contracts.
 
 25.  Describe the potential delivery mechanisms for Keybox (SDK, API, Gateway, Platform, WeTransfer model, DropBox model etc.)
 
-See Workflow Diagram as an example. To add to that, it will mostly be API driven but delivered by an SDK for easier integration, as it will be powered by a series of data handshakes wrapped up in signed Activeledger transactions.
+			See Workflow Diagram as an example. To add to that, it will mostly be API driven but delivered by an SDK for easier integration, as it will be powered by a series of data handshakes wrapped up in signed Activeledger transactions.
   
 
 TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO 
@@ -338,7 +333,7 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTc5Nzc0NiwtMTg5NDIzMDUwMiwxMD
+eyJoaXN0b3J5IjpbLTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMD
 U4MzI4ODA3LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2
 OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NT
 gsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAx
