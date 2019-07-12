@@ -122,6 +122,9 @@ The Demo video can be found [here](https://youtu.be/Omhk3DqmTko)
 # USE CASES
 
 Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
+
+![
+](https://lh3.googleusercontent.com/RmW8jY61o7yVFCwMsKL0saWTiwuXGopVpqXIJzSTli-ot-4EmtfwO17TsM5LfS5sV9uQ9_wEpfE=s1000)
   
 
 ## 1 - DATA AT REST : Protecting Archive Data with Keybox
@@ -352,11 +355,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTM5OTUxMiwzMTM5MzMyODQsMTM0Mj
-QxNzcxMiwtMTAwMzc2MjE0LDE4ODExMzY5NDQsMTYxMjE5NjE3
-MywtMzkwODY4MzU3LDIyMDE5MjY3OSw1NDA1NTc1NjAsNTY3ND
-Q1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1ODMyODgw
-NywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC
-0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwODYy
-MDU0XX0=
+eyJoaXN0b3J5IjpbLTE4Mjc1ODE5MzEsMTY1OTM5OTUxMiwzMT
+M5MzMyODQsMTM0MjQxNzcxMiwtMTAwMzc2MjE0LDE4ODExMzY5
+NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LDIyMDE5MjY3OSw1ND
+A1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1
+MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC
+0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5
+MjAyODU4XX0=
 -->
