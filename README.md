@@ -8,13 +8,13 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
 
 **[Contents](http://tableofcontent.eu)**
 
-  - [SECURING DATA](#securing-data)
+  - [Securing Data](#securing-data)
     - [Tried and tested security algorithms](#tried-and-tested-security-algorithms)
     - [Permissioned blockchain](#permissioned-blockchain)
     - [Strong focus on usability](#strong-focus-on-usability)
   - [How Keybox work](#how-keybox-work)
   - [Fragmentation process](#fragmentation-process)
-  - [KEYBOX INTEGRATION**](#keybox-integration)
+  - [Keybox integration**](#keybox-integration)
     - [How to use the Keybox API](#how-to-use-the-keybox-api)
 - [USE CASES](#use-cases)
   - [1 - DATA AT REST : Protecting Archive Data with Keybox](#1-data-at-rest-protecting-archive-data-with-keybox)
@@ -411,11 +411,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjE3MjQzNCwtMTQxMzY2MzE1MSwxNT
-YzNDkyMzg2LDExNjU2MTc0MjQsLTE4Mjc1ODE5MzEsMTY1OTM5
-OTUxMiwzMTM5MzMyODQsMTM0MjQxNzcxMiwtMTAwMzc2MjE0LD
-E4ODExMzY5NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LDIyMDE5
-MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkwNzQsLT
-E4OTQyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNjc4
-MDIyNzA5XX0=
+eyJoaXN0b3J5IjpbLTc2NzgzNDQ1MCwtOTQyMTcyNDM0LC0xND
+EzNjYzMTUxLDE1NjM0OTIzODYsMTE2NTYxNzQyNCwtMTgyNzU4
+MTkzMSwxNjU5Mzk5NTEyLDMxMzkzMzI4NCwxMzQyNDE3NzEyLC
+0xMDAzNzYyMTQsMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOTA4
+NjgzNTcsMjIwMTkyNjc5LDU0MDU1NzU2MCw1Njc0NDU2NjYsLT
+MxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4
+NTI0MzddfQ==
 -->
