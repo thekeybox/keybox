@@ -116,13 +116,11 @@ The delete function takes the reference and deletes the fragmented data.
 Below are examples of where and how Keybox can be applied: for data at rest; for data in transit or sharing; for key management and recovery; for compliance and for data theft obstruction.
   
 
-![enter image description here](https://lh3.googleusercontent.com/FxtOLWXnVseOEClFMR_0ORvVwSep7BlwTA83Zpu16z0ZHRAUX9uocLWhs-CcKrybPFja281cP5A) 
-
-# 1 - DATA AT REST : Protecting Archive Data with Keybox
+## 1 - DATA AT REST : Protecting Archive Data with Keybox
 
   
 
-## Example: Enterprise customer data (Cloud-based or on premise)
+### Example: Enterprise customer data (Cloud-based or on premise)
 
   
 
@@ -130,7 +128,7 @@ Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows s
 
   
 
-## Example: Cloud-based shared data storage solutions (e.g. Dropbox)
+### Example: Cloud-based shared data storage solutions (e.g. Dropbox)
 
   
 
@@ -138,7 +136,7 @@ Keybox can sit as a layer between a user and their database, providing an additi
 
   
 
-## Example: Digital Asset Custody
+### Example: Digital Asset Custody
 
   
 
@@ -148,18 +146,18 @@ Private keys can be recombined at the point of trade, or for more security, trad
 
   
 
-# 2 - DATA IN TRANSIT /SHARING : Sharing Data Safely with Keybox
+## 2 - DATA IN TRANSIT /SHARING : Sharing Data Safely with Keybox
 
   
 
-## Example: Sharing Data Securely (e.g. file export, Open Banking, Compliance & Audit)
+### Example: Sharing Data Securely (e.g. file export, Open Banking, Compliance & Audit)
 
   
 
 Large corporates frequently need auditors or regulators to access and review sensitive information. Banks need to collaborate with Fintechs. Corporates frequently need to export sensitive data. Keybox can allow authorised third party access in secure way, with specific, permissioned key access and a full audit trail.
 
 
-## Example: Secure Investor Identity Verification
+### Example: Secure Investor Identity Verification
 
   
 
@@ -167,7 +165,7 @@ To comply with KYC/AML, investors have to provide highly sensitive documents to 
 
   
 
-## Example: Transaction Data Rooms
+### Example: Transaction Data Rooms
 
   
 
@@ -175,11 +173,11 @@ To complete corporate transactions, a great deal of sensitive data is stored in 
 
   
 
-# 3 - DEVICE/USER KEY RECOVERY : Supporting Lost Access
+## 3 - DEVICE/USER KEY RECOVERY : Supporting Lost Access
 
   
 
-## Example: Lost Phone
+### Example: Lost Phone
 
   
 
@@ -187,22 +185,22 @@ One of the most common mobile/online support issues is loss of access to a devic
 
   
 
-# 4 - COMPLIANCE WITH GDPR : Proof of Data Territoriality + No Personally Identifiable Data
+## 4 - COMPLIANCE WITH GDPR : Proof of Data Territoriality + No Personally Identifiable Data
 
   
 
-## Example: Demonstrating Auditable GDPR Compliance to Regulators
+### Example: Demonstrating Auditable GDPR Compliance to Regulators
 
   
 
 Whilst regulations have evolved and may continue to change, Keybox allows clients to demonstrate adoption of best practices with regards data security as a data processor through data fragmentation and territoriality.
 
 
-# 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
+## 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
 
   
 
-## Example: Stolen Laptop
+### Example: Stolen Laptop
 
   
 
@@ -210,11 +208,11 @@ All data security processes have the challenge of failure at the point of consum
 
   
 
-# 6 - KEY MANAGEMENT : Access Control
+## 6 - KEY MANAGEMENT : Access Control
 
   
 
-## Example: Crypto Currency Exchanges
+### Example: Crypto Currency Exchanges
 
   
 
@@ -222,11 +220,7 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 
   
 
-### TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
-
- 
-
-### GENERAL ENQUIRIES TO INFO@KEYBOX.CO
+#### TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.COGENERAL ENQUIRIES TO INFO@KEYBOX.CO
 
 ```
 © Keybox Ltd. 2019 All rights reserved. 
@@ -239,9 +233,9 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNj
-c4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5
-NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLT
-E3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIw
-NzE5ODE5NF19
+eyJoaXN0b3J5IjpbLTE0MTM0MDEwNiwxMDU4MzI4ODA3LDE3Mz
+Q4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIz
+MDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLT
+EzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMx
+MTM3NzE4OSwxMjA3MTk4MTk0XX0=
 -->
