@@ -264,9 +264,6 @@ Keybox views security as a multi-faceted problem. Protection against external th
 
 		The biggest problem with secret sharing is “where and who do you trust with each secret part.” This is a key reason for it not to be adopted. However, this problem can be resolved with the current research into DLT. While each part of this technology is not unique, the combining of them creates a new unique technology (just like bitcoin.)
 
-![
-](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA=s1000)
-
 9.  What are the “secrets”?
 
 		This was the term given when the algorithm was designed because they wanted to “share a secret.”
@@ -369,7 +366,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ1ODkyMjgsLTE4Mjc1ODE5MzEsMT
+eyJoaXN0b3J5IjpbLTE3NjE1MjU3OTIsLTE4Mjc1ODE5MzEsMT
 Y1OTM5OTUxMiwzMTM5MzMyODQsMTM0MjQxNzcxMiwtMTAwMzc2
 MjE0LDE4ODExMzY5NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LD
 IyMDE5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkw
