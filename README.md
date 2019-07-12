@@ -40,7 +40,7 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
   - [AI fraud detection](#ai-fraud-detection)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Summary](#summary)
-- 
+- [Contact](#Contact)
  
 
 ## INTRO - SECURING DATA 
@@ -411,11 +411,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwODMxNTA3LDE1NjM0OTIzODYsMTE2NT
-YxNzQyNCwtMTgyNzU4MTkzMSwxNjU5Mzk5NTEyLDMxMzkzMzI4
-NCwxMzQyNDE3NzEyLC0xMDAzNzYyMTQsMTg4MTEzNjk0NCwxNj
-EyMTk2MTczLC0zOTA4NjgzNTcsMjIwMTkyNjc5LDU0MDU1NzU2
-MCw1Njc0NDU2NjYsLTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMD
-U4MzI4ODA3LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2
-OTEwMjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTM2NjMxNTEsMTU2MzQ5MjM4NiwxMT
+Y1NjE3NDI0LC0xODI3NTgxOTMxLDE2NTkzOTk1MTIsMzEzOTMz
+Mjg0LDEzNDI0MTc3MTIsLTEwMDM3NjIxNCwxODgxMTM2OTQ0LD
+E2MTIxOTYxNzMsLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3
+NTYwLDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLD
+EwNTgzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcx
+NTY5MTAyM119
 -->
