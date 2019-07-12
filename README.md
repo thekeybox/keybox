@@ -1,19 +1,13 @@
 # KEYBOX  WHITE PAPER
 
-> An introductory paper to Keybox
-
-Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR).
-
-Keybox addresses all of these issues.
+Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR). Keybox addresses all of these issues.
 
 >With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
-
-# SECURING DATA 
+## SECURING DATA 
 
 
 Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments using smart contract technology.
-
 
 ```
 
@@ -32,17 +26,7 @@ v. A redundancy threshold ensures that the failure of a node does not affect the
 
 ![enter image description here](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA)
 
-## Tried and tested security algorithms
 
-Keybox uses MIT’s Shamir Secret Sharing to fragment data together with smart contracts to control and monitor data access
-
-## Permissioned blockchain
-
-Keybox leverages a proven, permissioned Blockchain, which has several unique advantages over other distributed ledger protocols, including territoriality and scalability
-
-## Strong focus on usability
-
-The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure.
 
 ## How Keybox work
  
@@ -251,9 +235,9 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMT
-cxNTY5MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIw
-Mjg1OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC
-0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ==
-
+eyJoaXN0b3J5IjpbMTU2NDk5NDE2LDE3MzQ4NTI0MzcsLTE2Nz
+gwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3
+MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMT
+cxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3
+MTk4MTk0XX0=
 -->
