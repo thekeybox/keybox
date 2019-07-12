@@ -9,20 +9,6 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
 
 Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments using smart contract technology.
 
-```
-
-i. Keybox encrypts and fragments data into multiple unique parts
-
-ii. The fragments are distributed across a decentralized network of private or public nodes
-
-iii. Only a subset of the fragments is needed to recreate the whole
-
-iv. The data can only be accessed through the recombination process via smart contracts
-
-v. A redundancy threshold ensures that the failure of a node does not affect the integrity of the data
-
-```
-
 ### Tried and tested security algorithms
 
 Keybox uses MIT’s Shamir Secret Sharing to fragment data together with smart contracts to control and monitor data access
@@ -36,6 +22,20 @@ Keybox leverages a proven, permissioned Blockchain, which has several unique adv
 The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure.
 
 ## How Keybox work
+
+```
+
+i. Keybox encrypts and fragments data into multiple unique parts
+
+ii. The fragments are distributed across a decentralized network of private or public nodes
+
+iii. Only a subset of the fragments is needed to recreate the whole
+
+iv. The data can only be accessed through the recombination process via smart contracts
+
+v. A redundancy threshold ensures that the failure of a node does not affect the integrity of the data
+
+```
  
 Keybox leverages some unique features of Activeledger, for example, Activity Streaming. Activeledger is able to create consensus even being in different networks if managed correctly. This is how our virtual networks for Keybox will operate. When creating a new activity stream to hold a secure data record, we can use deterministic stream names to ensure on each network that the new activity stream has the same id. Inside this activity stream, we will have the metadata such as ownership details. Once we have the activity stream on the 4** networks, we can either create a tunnel or data passthrough*** from the connected client to append data to the activity stream. This appended data will be 1 of the 4 parts of the secret sharing algorithm. Now we have the secret parts securely separated from each other and Keybox becomes the controller (but not the owner, or access to the data).
 
@@ -46,6 +46,20 @@ This network method will not require such strict health checks because if a node
 ** Can be any size networks, With any size total nodes. It all depends on how they decide the split and manage the data. 4 with 8 nodes is an example representation of how it could look.
 
 *** Any data that is transmitted will be encrypted. Part of our authentication system of the user will be to either have access to an existing public private keypair or have a generated key pair for just this session.
+
+```
+
+i. Keybox encrypts and fragments data into multiple unique parts
+
+ii. The fragments are distributed across a decentralized network of private or public nodes
+
+iii. Only a subset of the fragments is needed to recreate the whole
+
+iv. The data can only be accessed through the recombination process via smart contracts
+
+v. A redundancy threshold ensures that the failure of a node does not affect the integrity of the data
+
+```
 
 ## Fragmentation process
 
@@ -88,30 +102,26 @@ The API UI can be found at https://poc.keybox.co. There is a swagger UI availabl
 All of the API endpoints can be tested in the explorer by expanding the relevant sections and clicking the "Try it out". Endpoints
 
 > Write Inspect Get Delete
-> 
 > Write
-> 
 > Returns: A reference
 
 The write endpoint is used to add data to the Keybox. Data can be sent as text or as an Octet-stream. The name and extension of the file is not stored. When uploading it is recommended that both are stored with the returned reference. This can be used to correctly rename the file upon downloading.
 
-Inspect
-
-Receives: Reference  
-
-Returns: Fragbits  
+> Inspect
+> Receives: Reference  
+> Returns: Fragbits
 
 The inspect endpoints returns a list of the fragments created when the uploaded data was sharded.
 
-Get
+> Get
+> Receives: Reference  
+> Returns: Uploaded data
 
-Receives: Reference  
-Returns: Uploaded data  
 The get function takes the stored reference and returns the un-fragmented data.
 
-Delete
+> Delete
+> Receives: Reference
 
-Receives: Reference  
 The delete function takes the reference and deletes the fragmented data.
 
 # USE CASES
@@ -242,9 +252,9 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MTIwNjYzLDE3MzQ4NTI0MzcsLTE2Nz
-gwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3
-MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMT
-cxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3
-MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbLTM3NzI0OTUyMywxNzM0ODUyNDM3LC0xNj
+c4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5
+NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLT
+E3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIw
+NzE5ODE5NF19
 -->
