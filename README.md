@@ -56,6 +56,9 @@ This network method will not require such strict health checks because if a node
 
 *** Any data that is transmitted will be encrypted. Part of our authentication system of the user will be to either have access to an existing public private keypair or have a generated key pair for just this session.
 
+## Fragmentation process
+
+
 ## KEYBOX INTEGRATION**
 
 We provide an API and SDK to allow enterprises a seamless experience in managing their data at rest or in transit.
@@ -220,8 +223,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NTc1NjUxLC0xNjc4MDIyNzA5LC0xNz
-E1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAy
-ODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLT
-EwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbNDY3NTI4OSwtMTY3ODAyMjcwOSwtMTcxNT
+Y5MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1
+OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMD
+EwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ==
 -->
