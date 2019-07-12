@@ -44,7 +44,17 @@ Keybox leverages a proven, permissioned Blockchain, which has several unique adv
 
 The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure.
 
+## How Keybox work
+ 
+Keybox leverages some unique features of Activeledger, for example, Activity Streaming. Activeledger is able to create consensus even being in different networks if managed correctly. This is how our virtual networks for Keybox will operate. When creating a new activity stream to hold a secure data record, we can use deterministic stream names to ensure on each network that the new activity stream has the same id. Inside this activity stream, we will have the metadata such as ownership details. Once we have the activity stream on the 4** networks, we can either create a tunnel or data passthrough*** from the connected client to append data to the activity stream. This appended data will be 1 of the 4 parts of the secret sharing algorithm. Now we have the secret parts securely separated from each other and Keybox becomes the controller (but not the owner, or access to the data).
 
+When it comes to data retrieval each network would validate the request to make sure they should release their data. This releasing of data would generate a token allowing the requester direct access (again via tunnel or passthrough***) to download the parts for them to combine and retrieve the original data for their consumption. We would still enforce policies such as read notification, and that the requester has “deleted the data” notification (providing an audit trail that it happened, even if they only “say” they did).
+
+This network method will not require such strict health checks because if a node goes down unexpectedly because the data is not sitting in the volatile memory, we haven’t lost anything. When the node comes back online (even with a new hard drive) it will eventually get back to its original dataset. The advantage of this is that we can use other secret sharing/fragmenting methods (instead of Shamir's secret sharing). For example, we could take the data and chunk it in 4 parts each node still has junk data because it requires them all. Without Shamir's secret sharing we could then encrypt the chunked data with either public keys or passwords. (Shamir's can be considered encryption and double encryption is not always the best solution depending on the application.) One advantage of this would be reduced data storage requirements.  In summary, this gives Keybox a lot of flexibility in how it can manage the network and the intelligence of that network. If we do decide to adopt secret sharing, another layer of security is possible when it comes to recombining the data. If you only require 2 parts to restore the original data we don't have to allow access to all 4 virtual networks for the data part retrieval phase.
+
+** Can be any size networks, With any size total nodes. It all depends on how they decide the split and manage the data. 4 with 8 nodes is an example representation of how it could look.
+
+*** Any data that is transmitted will be encrypted. Part of our authentication system of the user will be to either have access to an existing public private keypair or have a generated key pair for just this session.
 
 ## KEYBOX INTEGRATION**
 
@@ -210,8 +220,8 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLT
-MyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIw
-NTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMy
-wtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbMjc3NTc1NjUxLC0xNjc4MDIyNzA5LC0xNz
+E1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAy
+ODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLT
+EwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
 -->
