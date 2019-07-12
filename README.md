@@ -231,6 +231,7 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 		
 
 ![enter image description here](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q)
+
 8.  Why is the technology unique?
 
 		The biggest problem with secret sharing is “where and who do you trust with each secret part.” This is a key reason for it not to be adopted. However, this problem can be resolved with the current research into DLT. While each part of this technology is not unique, the combining of them creates a new unique technology (just like bitcoin.)
@@ -313,11 +314,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNT
-U3NTYwLDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAy
-LDEwNTgzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMT
-cxNTY5MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIw
-Mjg1OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC
-0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ==
-
+eyJoaXN0b3J5IjpbMTYxMjE5NjE3MywtMzkwODY4MzU3LDIyMD
+E5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkwNzQs
+LTE4OTQyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNj
+c4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5
+NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLT
+E3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIw
+NzE5ODE5NF19
 -->
