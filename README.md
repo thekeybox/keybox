@@ -23,10 +23,6 @@ The Keybox API and SDK offer enterprises a seamless experience in managing their
 
 ![enter image description here](https://lh3.googleusercontent.com/9mMsAhMBHlPivWfFdP9Nn1EHdk6xIIpdm6hTGcdt7d9IBC-Gob_60O_RS5Fkf0rC9F3BszGO9jI=s1000)
 
-![enter image description here](https://lh3.googleusercontent.com/9mMsAhMBHlPivWfFdP9Nn1EHdk6xIIpdm6hTGcdt7d9IBC-Gob_60O_RS5Fkf0rC9F3BszGO9jI)
-
-![enter image description here](https://lh3.googleusercontent.com/Ll2gSNmfrGOpJNn824PjDf_nHmGyiATeV33CMtRkkNty6GkDoCHbmgZOKbkTGpVzKpGma7D8XTI "technology stack")
-
 ## How Keybox work
 
  
@@ -318,7 +314,7 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNjUxMDA0LDE2MTIxOTYxNzMsLTM5MD
+eyJoaXN0b3J5IjpbNTc5MDIxNjQ1LDE2MTIxOTYxNzMsLTM5MD
 g2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2Niwt
 MzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMTczND
 g1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIyMjMw
