@@ -218,6 +218,8 @@ All data security processes have the challenge of failure at the point of consum
 
 Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only under certain conditions to generate the signature needed for them to transact for you on a public network.
 
+# Frequently Asked Questions
+
 
   
 
@@ -232,9 +234,9 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTAwNTMxOSwxMDU4MzI4ODA3LDE3Mz
-Q4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIz
-MDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLT
-EzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMx
-MTM3NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbLTE4OTQyMzA1MDIsMTA1ODMyODgwNywxNz
+M0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIy
+MzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwODYyMDU0LC
+0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1MzMsLTEz
+MTEzNzcxODksMTIwNzE5ODE5NF19
 -->
