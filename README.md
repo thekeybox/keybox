@@ -226,6 +226,7 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 7.  Describe the steps to reform the data with Keybox.
 
 		See Workflow Diagram as an example.
+		![enter image description here](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q)
 
 8.  Why is the technology unique?
 
@@ -309,10 +310,10 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTU3NTYwLDU2NzQ0NTY2NiwtMzEwOD
-U5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMTczNDg1MjQz
-NywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIyMjMwODQ2LD
-ExMjg2OTczNjAsLTc5OTIwMjg1OCw0MDg2MjA1NCwtMTMzMjI0
-MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzExMzc3MT
-g5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbMTI0MTQxNTg5Myw1NDA1NTc1NjAsNTY3ND
+Q1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1ODMyODgw
+NywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC
+0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwODYy
+MDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1Mz
+MsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
 -->
