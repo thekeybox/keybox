@@ -226,8 +226,9 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 7.  Describe the steps to reform the data with Keybox.
 
 		See Workflow Diagram as an example.
-		![enter image description here](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q)
+		
 
+![enter image description here](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q)
 8.  Why is the technology unique?
 
 		The biggest problem with secret sharing is “where and who do you trust with each secret part.” This is a key reason for it not to be adopted. However, this problem can be resolved with the current research into DLT. While each part of this technology is not unique, the combining of them creates a new unique technology (just like bitcoin.)
@@ -310,10 +311,10 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTQxNTg5Myw1NDA1NTc1NjAsNTY3ND
-Q1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1ODMyODgw
-NywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC
-0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LDQwODYy
-MDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAwMzM1Mz
-MsLTEzMTEzNzcxODksMTIwNzE5ODE5NF19
+eyJoaXN0b3J5IjpbMjIwMTkyNjc5LDU0MDU1NzU2MCw1Njc0ND
+U2NjYsLTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3
+LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLT
+MyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIw
+NTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMy
+wtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
 -->
