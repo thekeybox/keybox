@@ -1,5 +1,4 @@
-![
-](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
+# Keybox White Paper
 
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR). Keybox addresses all of these issues.
 
@@ -342,12 +341,17 @@ ANY QUESTIONS, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 ```
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
+
+
+![
+](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM3NjIxNCwxODgxMTM2OTQ0LDE2MT
-IxOTYxNzMsLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYw
-LDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNT
-gzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5
-MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1OC
-w0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMDEw
-MDMzNTMzXX0=
+eyJoaXN0b3J5IjpbMTM0MjQxNzcxMiwtMTAwMzc2MjE0LDE4OD
+ExMzY5NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LDIyMDE5MjY3
+OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OT
+QyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIy
+NzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MC
+wtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2
+NTc2NjhdfQ==
 -->
