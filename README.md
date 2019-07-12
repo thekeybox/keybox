@@ -1,8 +1,6 @@
 ![
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
-# KEYBOX  WHITE PAPER
-
 Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or on-premise. Data at rest and data transfers between organisations increase the risk of breaches. Key management and recovery remain an issue and current storage technologies rarely comply with data regulations and privacy laws (e.g. GDPR). Keybox addresses all of these issues.
 
 >With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
@@ -345,7 +343,7 @@ ANY QUESTIONS, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODUxMTM4NiwxODgxMTM2OTQ0LDE2MT
+eyJoaXN0b3J5IjpbLTEwMDM3NjIxNCwxODgxMTM2OTQ0LDE2MT
 IxOTYxNzMsLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYw
 LDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNT
 gzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5
