@@ -127,20 +127,15 @@ Below are examples of where and how Keybox can be applied: for data at rest; for
 
 Customer data is stolen every day from enterprises, e.g. hotels. Keybox allows sensitive data to be stored or backed up in decentralised, secure fragments. The data can be accessed instantly for business logic and may not even need to be recovered in its entirety to return specific data requests.
 
-  
-
-### Example: Cloud-based shared data storage solutions (e.g. Dropbox)
+  ### Cloud-based shared data storage solutions (e.g. Dropbox)
 
   
 
 Keybox can sit as a layer between a user and their database, providing an additional security layer to deliver greater control of access.
 
-  
+### Digital Asset Custody
 
-### Example: Digital Asset Custody
-
-  
-
+ 
 Keybox is the safest way to store keys for digital assets that also allows low-latency recovery. Where hot wallets are not secure and cold storage is slow/inefficient, Keybox provides instant access with highest grade security.
 
 Private keys can be recombined at the point of trade, or for more security, trades executed without fully recombining the key.
@@ -150,37 +145,24 @@ Private keys can be recombined at the point of trade, or for more security, trad
 ## 2 - DATA IN TRANSIT /SHARING : Sharing Data Safely with Keybox
 
   
+### Sharing Data Securely (e.g. file export, Open Banking, Compliance & Audit)
 
-### Example: Sharing Data Securely (e.g. file export, Open Banking, Compliance & Audit)
-
-  
 
 Large corporates frequently need auditors or regulators to access and review sensitive information. Banks need to collaborate with Fintechs. Corporates frequently need to export sensitive data. Keybox can allow authorised third party access in secure way, with specific, permissioned key access and a full audit trail.
 
 
-### Example: Secure Investor Identity Verification
-
-  
+### Secure Investor Identity Verification
 
 To comply with KYC/AML, investors have to provide highly sensitive documents to complete transactions (personal details, proof of wealth, residency, address). This data transfer poses a risk. Keybox can allow entities to share data access exclusively and for a limited time period to specific persons, with low risk.
 
-  
-
-### Example: Transaction Data Rooms
-
-  
+### Transaction Data Rooms
 
 To complete corporate transactions, a great deal of sensitive data is stored in data rooms. Access to and transfer of this data poses a risk. Keybox can allow data sharing for a limited time period to specific entities, with low risk.
 
   
-
 ## 3 - DEVICE/USER KEY RECOVERY : Supporting Lost Access
 
-  
-
-### Example: Lost Phone
-
-  
+### Lost Phone
 
 One of the most common mobile/online support issues is loss of access to a device or an application, caused by either losing the physical device or the login/password master access. Keybox allows for the automation of the verification process of an individual's identity, enabling self-certification in applications using a Keybox-powered network. A user can regain access to their secured data records by controlling the self-certify process for each record they have created, allowing them to set the challenges themselves for the access recovery for each specific record or the whole device or account.
 
@@ -188,20 +170,17 @@ One of the most common mobile/online support issues is loss of access to a devic
 
 ## 4 - COMPLIANCE WITH GDPR : Proof of Data Territoriality + No Personally Identifiable Data
 
-  
+ 
+### Demonstrating Auditable GDPR Compliance to Regulators
 
-### Example: Demonstrating Auditable GDPR Compliance to Regulators
-
-  
-
+ 
 Whilst regulations have evolved and may continue to change, Keybox allows clients to demonstrate adoption of best practices with regards data security as a data processor through data fragmentation and territoriality.
 
 
 ## 5 - DATA THEFT OBSTRUCTION : Protecting Against Stolen Access
 
-  
-
-### Example: Stolen Laptop
+ 
+### Stolen Laptop
 
   
 
@@ -211,9 +190,7 @@ All data security processes have the challenge of failure at the point of consum
 
 ## 6 - KEY MANAGEMENT : Access Control
 
-  
-
-### Example: Crypto Currency Exchanges
+### Crypto Currency Exchanges
 
   
 Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only under certain conditions to generate the signature needed for them to transact for you on a public network.
@@ -334,7 +311,7 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDYwMzY1OCw1Njc0NDU2NjYsLTMxMD
+eyJoaXN0b3J5IjpbMTM0OTM3NzQwNCw1Njc0NDU2NjYsLTMxMD
 g1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4NTI0
 MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0Ni
 wxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIy
