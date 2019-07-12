@@ -58,6 +58,34 @@ This network method will not require such strict health checks because if a node
 
 ## Fragmentation process
 
+There will be 2 possibilities for the fragmentation process. On-device or Remote. Each method does the same thing but remote allows for people with low powered devices to still protect their data by using a service run by us. This service would have to be designed to be secure and be offered as a backup for if they cannot fragment their own data.
+
+1.  Select data to be protected and wrap it up into a single object (So each secure record has only 1 object to maintain)
+    
+2.  Convert that object into a safe string data type.
+    
+3.  Run the safe string through Shamir's secret sharing algorithm (May need to chunk the data as there is a theoretical limit)
+    
+
+1.  The X parts of Y will be configured based on the available network nodes and as well of any geolocation / personal preferences.**
+    
+2.  If the "limit" is 10mb worth of data, we would chunk it into 2x5mb worth of data and fragment them separately.
+    
+3.  If the device cannot fragment it will fall back to the remote method via the API to perform the fragmentation, and the remote device will receive all the fragmented parts.
+    
+
+5.  Create a new transaction to create a seeded activity stream with the metadata.
+    
+6.  Upload each fragmented part to the above seeded activity stream volatile data area (Each node receiving different dataset)
+    
+7.  Run another transaction to get the network to initiate the differential consensus (Making sure everyone has different data on the same stream)
+    
+8.  Confirmation that the data is both secured and unknown to a single entity.
+    
+
+** This could become rather complex we could have 1 large network of 100 nodes, or networks of smaller networks and give the user the choice how the data is disbursed. The reason for this would be to fragment the data further across so many locations which an attacker wouldn't know where to attack. It also allows for 1 administrator to run multiple nodes but never has more than 1 (or possibly more depending on X of Y) part of the fragments.
+
+
 
 ## KEYBOX INTEGRATION**
 
@@ -223,8 +251,9 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NTI4OSwtMTY3ODAyMjcwOSwtMTcxNT
-Y5MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1
-OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMD
-EwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUyNzY4MjUsLTE2NzgwMjI3MDksLT
+E3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTky
+MDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OC
+wtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
+
 -->
