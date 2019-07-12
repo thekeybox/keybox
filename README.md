@@ -4,7 +4,10 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
 
 >With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
-## SECURING DATA 
+### Contents
+
+
+## INTRO - SECURING DATA 
 
 
 Keybox stores data in encrypted fragments across multiple, decentralised private or public nodes, such that penetrating any node cannot yield any decipherable information. Authorised users recombine data from fragments using smart contract technology.
@@ -371,11 +374,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTYxNzQyNCwtMTgyNzU4MTkzMSwxNj
-U5Mzk5NTEyLDMxMzkzMzI4NCwxMzQyNDE3NzEyLC0xMDAzNzYy
-MTQsMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOTA4NjgzNTcsMj
-IwMTkyNjc5LDU0MDU1NzU2MCw1Njc0NDU2NjYsLTMxMDg1OTA3
-NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4NTI0MzcsLT
-E2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4
-Njk3MzYwXX0=
+eyJoaXN0b3J5IjpbLTMxMDk3Mzg0NiwxMTY1NjE3NDI0LC0xOD
+I3NTgxOTMxLDE2NTkzOTk1MTIsMzEzOTMzMjg0LDEzNDI0MTc3
+MTIsLTEwMDM3NjIxNCwxODgxMTM2OTQ0LDE2MTIxOTYxNzMsLT
+M5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2
+NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMT
+czNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIy
+MjMwODQ2XX0=
 -->
