@@ -88,7 +88,10 @@ We provide an API and SDK to allow enterprises a seamless experience in managing
 The API UI can be found at https://poc.keybox.co. There is a swagger UI available under "API Explorer".  
 All of the API endpoints can be tested in the explorer by expanding the relevant sections and clicking the "Try it out". Endpoints
 
-> Write Inspect Get Delete
+> Write 
+> Inspect 
+> Get 
+> Delete
 > Write
 > Returns: A reference
 
@@ -333,9 +336,10 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMD
-U4MzI4ODA3LDE3MzQ4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2
-OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NT
-gsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAx
-MDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbNTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OT
+QyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIy
+NzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MC
+wtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2
+NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5OD
+E5NF19
 -->
