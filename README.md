@@ -23,10 +23,17 @@ v. A redundancy threshold ensures that the failure of a node does not affect the
 
 ```
 
+### Tried and tested security algorithms
 
-![enter image description here](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA)
+Keybox uses MIT’s Shamir Secret Sharing to fragment data together with smart contracts to control and monitor data access
 
+### Permissioned blockchain
 
+Keybox leverages a proven, permissioned Blockchain, which has several unique advantages over other distributed ledger protocols, including territoriality and scalability
+
+### Strong focus on usability
+
+The Keybox API and SDK offer enterprises a seamless experience in managing their data at rest or in transit, within their existing data infrastructure.
 
 ## How Keybox work
  
@@ -73,27 +80,27 @@ There will be 2 possibilities for the fragmentation process. On-device or Remote
 
 ## KEYBOX INTEGRATION**
 
-We provide an API and SDK to allow enterprises a seamless experience in managing their data at rest or in transit.
-
-Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node environment. 
+We provide an API and SDK to allow enterprises a seamless experience in managing their data at rest or in transit. Clients can use their existing infrastructure to host the solution or can use the secure Keybox hosted node environment. 
 
 ### How to use the Keybox API
 
 The API UI can be found at https://poc.keybox.co. There is a swagger UI available under "API Explorer".  
 All of the API endpoints can be tested in the explorer by expanding the relevant sections and clicking the "Try it out". Endpoints
 
-Write Inspect Get Delete
-
-Write
-
-Returns: A reference
+> Write Inspect Get Delete
+> 
+> Write
+> 
+> Returns: A reference
 
 The write endpoint is used to add data to the Keybox. Data can be sent as text or as an Octet-stream. The name and extension of the file is not stored. When uploading it is recommended that both are stored with the returned reference. This can be used to correctly rename the file upon downloading.
 
 Inspect
 
 Receives: Reference  
+
 Returns: Fragbits  
+
 The inspect endpoints returns a list of the fragments created when the uploaded data was sharded.
 
 Get
@@ -235,7 +242,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDk5NDE2LDE3MzQ4NTI0MzcsLTE2Nz
+eyJoaXN0b3J5IjpbNzI0MTIwNjYzLDE3MzQ4NTI0MzcsLTE2Nz
 gwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3
 MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMT
 cxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3
