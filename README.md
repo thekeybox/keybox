@@ -198,6 +198,24 @@ All data security processes have the challenge of failure at the point of consum
   
 Keybox can secure private keys with permissions over access control. Crypto exchanges request you send your crypto keys to their wallet. Keybox allows you to give the exchange permission to access your private key only under certain conditions to generate the signature needed for them to transact for you on a public network.
 
+# Security Overview
+
+## Distributed and Decentralised
+
+We distribute the Keybox Data Vault Servers over a minimum of four cloud providers. We benefit from the investment made by cloud providers in securing their services from cyber-attacks including DDoS and their strict physical access control. A Master Node splits data into fragments and stores them. The Master Nodes run on machines and devices such as the Keybox Vault App on Smartphones for consumers, and selected servers in selected cloud providers for enterprise customers. This creates a massively decentralised storage landscape, consisting of many devices running a wide variety of hardware and software. The network is also geographically diverse. This combination of hardware, software and geographical diversity makes it resilient and significantly increases the cost and efficacy of any attack.
+
+## Perpetual machine
+
+Data Vault works on a perpetual machine basis. The software runs independently without administrative duties or access. A node runs until it falls below predetermined performance levels. Nodes with such issues are performance monitored and replaced.
+
+##  Multi-factor authentication
+
+Multi-factor authentication: Keybox uses multi-factor authentication to protect access to data and will allow consumers to control who accesses their data for how long and for what purpose. It also ensures the destruction of that data by the enterprise after the purpose has been met. As communication methods evolve so too will authentication methods, and Keybox will add new options as well. Currently, SMS/text messaging and authentication tools such as Google Authenticator enable a user to choose a multi-factor authentication method they are already familiar with. In the future biometric solutions such as touch-id and face-id may be additional options.
+
+## Consensus
+
+Activeledger’s Activity Streaming Protocol utilises Proof of Reputation, meaning the reputation of the node and events that occur on it.
+
 # Frequently Asked Questions
 
 1.  How do we describe Keybox?
@@ -319,11 +337,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzEyMjIxOSwxODgxMTM2OTQ0LDE2MT
-IxOTYxNzMsLTM5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYw
-LDU2NzQ0NTY2NiwtMzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNT
-gzMjg4MDcsMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5
-MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1OC
-w0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMDEw
-MDMzNTMzXX0=
+eyJoaXN0b3J5IjpbMjEwMDQwMTcyLDE4ODExMzY5NDQsMTYxMj
+E5NjE3MywtMzkwODY4MzU3LDIyMDE5MjY3OSw1NDA1NTc1NjAs
+NTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OTQyMzA1MDIsMTA1OD
+MyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIyNzA5LC0xNzE1Njkx
+MDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MCwtNzk5MjAyODU4LD
+QwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2NTc2NjgsLTEwMTAw
+MzM1MzNdfQ==
 -->
