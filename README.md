@@ -121,9 +121,7 @@ Below are examples of where and how Keybox can be applied: for data at rest; for
 
 ## 1 - DATA AT REST : Protecting Archive Data with Keybox
 
-  
-
-### Example: Enterprise customer data (Cloud-based or on premise)
+### Enterprise customer data (Cloud-based or on premise)
 
   
 
@@ -336,10 +334,10 @@ GENERAL ENQUIRIES TO INFO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NDQ1NjY2LC0zMTA4NTkwNzQsLTE4OT
-QyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC0xNjc4MDIy
-NzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEyODY5NzM2MC
-wtNzk5MjAyODU4LDQwODYyMDU0LC0xMzMyMjQwNzUsLTE3MTI2
-NTc2NjgsLTEwMTAwMzM1MzMsLTEzMTEzNzcxODksMTIwNzE5OD
-E5NF19
+eyJoaXN0b3J5IjpbMTczNDYwMzY1OCw1Njc0NDU2NjYsLTMxMD
+g1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4NTI0
+MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0Ni
+wxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLTEzMzIy
+NDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMxMTM3Nz
+E4OSwxMjA3MTk4MTk0XX0=
 -->
