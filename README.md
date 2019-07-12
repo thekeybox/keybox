@@ -50,6 +50,11 @@ v. A redundancy threshold ensures that the failure of a node does not affect the
 
 ```
 
+
+![
+](https://lh3.googleusercontent.com/2ci5R9TBCyWs4odEJwHLmvhJnHzmIwDXSrUi1gF7BcSLU24oDdYsmH5V3VxQ0XTwMNeXoe11QdA=s1000)
+
+
 ## Fragmentation process
 
 There will be 2 possibilities for the fragmentation process. On-device or Remote. Each method does the same thing but remote allows for people with low powered devices to still protect their data by using a service run by us. This service would have to be designed to be secure and be offered as a backup for if they cannot fragment their own data.
@@ -366,11 +371,11 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE1MjU3OTIsLTE4Mjc1ODE5MzEsMT
-Y1OTM5OTUxMiwzMTM5MzMyODQsMTM0MjQxNzcxMiwtMTAwMzc2
-MjE0LDE4ODExMzY5NDQsMTYxMjE5NjE3MywtMzkwODY4MzU3LD
-IyMDE5MjY3OSw1NDA1NTc1NjAsNTY3NDQ1NjY2LC0zMTA4NTkw
-NzQsLTE4OTQyMzA1MDIsMTA1ODMyODgwNywxNzM0ODUyNDM3LC
-0xNjc4MDIyNzA5LC0xNzE1NjkxMDIzLC0zMjIyMzA4NDYsMTEy
-ODY5NzM2MF19
+eyJoaXN0b3J5IjpbMTE2NTYxNzQyNCwtMTgyNzU4MTkzMSwxNj
+U5Mzk5NTEyLDMxMzkzMzI4NCwxMzQyNDE3NzEyLC0xMDAzNzYy
+MTQsMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOTA4NjgzNTcsMj
+IwMTkyNjc5LDU0MDU1NzU2MCw1Njc0NDU2NjYsLTMxMDg1OTA3
+NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3MzQ4NTI0MzcsLT
+E2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4
+Njk3MzYwXX0=
 -->
