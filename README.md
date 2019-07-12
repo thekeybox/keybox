@@ -67,11 +67,11 @@ There will be 2 possibilities for the fragmentation process. On-device or Remote
 3.  Run the safe string through Shamir's secret sharing algorithm (May need to chunk the data as there is a theoretical limit)
     
 
-1.  The X parts of Y will be configured based on the available network nodes and as well of any geolocation / personal preferences.**
-    
-2.  If the "limit" is 10mb worth of data, we would chunk it into 2x5mb worth of data and fragment them separately.
-    
-3.  If the device cannot fragment it will fall back to the remote method via the API to perform the fragmentation, and the remote device will receive all the fragmented parts.
+    a.  The X parts of Y will be configured based on the available network nodes and as well of any geolocation / personal preferences.**
+        
+    b.  If the "limit" is 10mb worth of data, we would chunk it into 2x5mb worth of data and fragment them separately.
+        
+    c.  If the device cannot fragment it will fall back to the remote method via the API to perform the fragmentation, and the remote device will receive all the fragmented parts.
     
 
 5.  Create a new transaction to create a seeded activity stream with the metadata.
@@ -251,9 +251,9 @@ Disclaimer: all data provided is for information purposes only and may not form 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1MDY2NTEsLTE2NzgwMjI3MDksLT
-E3MTU2OTEwMjMsLTMyMjIzMDg0NiwxMTI4Njk3MzYwLC03OTky
-MDI4NTgsNDA4NjIwNTQsLTEzMzIyNDA3NSwtMTcxMjY1NzY2OC
-wtMTAxMDAzMzUzMywtMTMxMTM3NzE4OSwxMjA3MTk4MTk0XX0=
+eyJoaXN0b3J5IjpbMTczNDg1MjQzNywtMTY3ODAyMjcwOSwtMT
+cxNTY5MTAyMywtMzIyMjMwODQ2LDExMjg2OTczNjAsLTc5OTIw
+Mjg1OCw0MDg2MjA1NCwtMTMzMjI0MDc1LC0xNzEyNjU3NjY4LC
+0xMDEwMDMzNTMzLC0xMzExMzc3MTg5LDEyMDcxOTgxOTRdfQ==
 
 -->
