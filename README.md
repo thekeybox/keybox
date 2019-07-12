@@ -79,7 +79,8 @@ There will be 2 possibilities for the fragmentation process. On-device or Remote
 
 ** This could become rather complex we could have 1 large network of 100 nodes, or networks of smaller networks and give the user the choice how the data is disbursed. The reason for this would be to fragment the data further across so many locations which an attacker wouldn't know where to attack. It also allows for 1 administrator to run multiple nodes but never has more than 1 (or possibly more depending on X of Y) part of the fragments.
 
-![How fragmentation works](https://lh3.googleusercontent.com/PkEcZ6gCkMxN_chF1dhDB4vlmLskdmLztDLm5-0Z-HcXAH1wBVXehwUXNgyPL-yaEXVwLMBbYtM "How fragmentation works")
+![
+](https://lh3.googleusercontent.com/yNQ-u8fpRNolilgQKgAMLeNnx9231BbdPh67HVhmsYQ90rjTb2an-P2gkUK20VRYDp2C1LxF14k=s1000)
 
 ## KEYBOX INTEGRATION**
 
@@ -228,9 +229,9 @@ Keybox can secure private keys with permissions over access control. Crypto exch
 7.  Describe the steps to reform the data with Keybox.
 
 		See Workflow Diagram as an example.
-		
 
-![enter image description here](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q)
+![
+](https://lh3.googleusercontent.com/Usk68ae3QcYD6pydWM6FMAxzVKLEnb2vAU8-dcHdHyBtsKgQOKOyPzkhu7v88fhXIIwl8pMuy8Q=s1000)		
 
 8.  Why is the technology unique?
 
@@ -314,11 +315,11 @@ TO GAIN ACCESS TO THE KEYBOX API, PLEASE CONTACT FRANCESCO@KEYBOX.CO
 Disclaimer: all data provided is for information purposes only and may not form the basis of any agreement
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MDIxNjQ1LDE2MTIxOTYxNzMsLTM5MD
-g2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2Niwt
-MzEwODU5MDc0LC0xODk0MjMwNTAyLDEwNTgzMjg4MDcsMTczND
-g1MjQzNywtMTY3ODAyMjcwOSwtMTcxNTY5MTAyMywtMzIyMjMw
-ODQ2LDExMjg2OTczNjAsLTc5OTIwMjg1OCw0MDg2MjA1NCwtMT
-MzMjI0MDc1LC0xNzEyNjU3NjY4LC0xMDEwMDMzNTMzLC0xMzEx
-Mzc3MTg5XX0=
+eyJoaXN0b3J5IjpbMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOT
+A4NjgzNTcsMjIwMTkyNjc5LDU0MDU1NzU2MCw1Njc0NDU2NjYs
+LTMxMDg1OTA3NCwtMTg5NDIzMDUwMiwxMDU4MzI4ODA3LDE3Mz
+Q4NTI0MzcsLTE2NzgwMjI3MDksLTE3MTU2OTEwMjMsLTMyMjIz
+MDg0NiwxMTI4Njk3MzYwLC03OTkyMDI4NTgsNDA4NjIwNTQsLT
+EzMzIyNDA3NSwtMTcxMjY1NzY2OCwtMTAxMDAzMzUzMywtMTMx
+MTM3NzE4OV19
 -->
