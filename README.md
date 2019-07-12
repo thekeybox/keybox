@@ -16,7 +16,7 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
   - [Fragmentation process](#fragmentation-process)
   - [Keybox integration**](#keybox-integration)
     - [How to use the Keybox API](#how-to-use-the-keybox-api)
-- [USE CASES](#use-cases)
+- [Use cases](#use-cases)
   - [1 - DATA AT REST : Protecting Archive Data with Keybox](#1-data-at-rest-protecting-archive-data-with-keybox)
     - [Enterprise customer data (Cloud-based or on premise)](#enterprise-customer-data-cloud-based-or-on-premise)
     - [Digital Asset Custody](#digital-asset-custody)
@@ -411,7 +411,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzgzNDQ1MCwtOTQyMTcyNDM0LC0xND
+eyJoaXN0b3J5IjpbMTcyNjc4ODMwMiwtOTQyMTcyNDM0LC0xND
 EzNjYzMTUxLDE1NjM0OTIzODYsMTE2NTYxNzQyNCwtMTgyNzU4
 MTkzMSwxNjU5Mzk5NTEyLDMxMzkzMzI4NCwxMzQyNDE3NzEyLC
 0xMDAzNzYyMTQsMTg4MTEzNjk0NCwxNjEyMTk2MTczLC0zOTA4
