@@ -5,7 +5,6 @@ Valuable enterprise data is vulnerable to hacks, whether stored in the Cloud or 
 >With data fragmentation, Keybox sets the new standard in data management best practice, offering enterprises of all sizes data security, control and traceability
 
 ### Contents
-
  1. Intro
  2. How Keybox work
  3. Fragmentation process 
@@ -383,7 +382,7 @@ Disclaimer: all data provided is for information purposes only and may not form 
 ](https://lh3.googleusercontent.com/66hxsJ0LxPjuzHWeCXsOwtC3HuILlw_twtyY-zxf_kN5aO1wQJ5WmUP5iOFmRICGe4JflEqpxGQ=s1000)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTk5NDYxMiwxMTY1NjE3NDI0LC0xOD
+eyJoaXN0b3J5IjpbMTU2MzQ5MjM4NiwxMTY1NjE3NDI0LC0xOD
 I3NTgxOTMxLDE2NTkzOTk1MTIsMzEzOTMzMjg0LDEzNDI0MTc3
 MTIsLTEwMDM3NjIxNCwxODgxMTM2OTQ0LDE2MTIxOTYxNzMsLT
 M5MDg2ODM1NywyMjAxOTI2NzksNTQwNTU3NTYwLDU2NzQ0NTY2
